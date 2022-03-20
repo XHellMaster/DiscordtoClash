@@ -8,7 +8,7 @@ import threading as t
 
 from discord.utils import get
 
-path = r"C:\Users\Arnav\PycharmProjects\DiscordtoClash\ClanChat.png"
+path = "You wish you had my personal info"
 rate = 5
 top1 = 150
 top2 = 690
@@ -42,7 +42,7 @@ clantodisc = t.Thread(target=take_picture)
 clantodisc.start()
 
 cooldown = True
-bot_token = 'OTU1MTEwNTgyMDc0MzUxNjQ3.Yjc6Cw.DzT2-8olOYMEkXIdxtvZVRT0DcM'
+bot_token = 'L no token for you'
 client = discord.Client()
 
 xpos = 1353
